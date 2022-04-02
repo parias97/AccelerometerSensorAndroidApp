@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FirstSensorComputingApp</string>
+    <string name="x_axis">X-Axis</string>
+    <string name="y_axis">Y-axis</string>
+    <string name="z_axis">Z-Axis</string>
+    <string name="magnitude">Magnitude</string>
+    <string name="magnitude_data">"Magnitude: %1f"</string>
+    <string name="x_axis_data">"X-Axis: %1f"</string>
+    <string name="y_axis_data">"Y-Axis: %1f"</string>
+    <string name="z_axis_data">"Z-Axis: %1f"</string>
+</resources>
+
